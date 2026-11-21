@@ -1,0 +1,19 @@
+{
+  "name": "gopi-krishna-portfolio",
+  "version": "1.0.0",
+  "description": "Personal developer portfolio showcasing full-stack engineering, AI/ML, and cloud projects",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "fullstack",
+    "ai-ml",
+    "cloud"
+  ],
+  "author": "Gopi Krishna",
+  "license": "MIT"
+}
